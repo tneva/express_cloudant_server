@@ -1,0 +1,19 @@
+{
+  "name": "cloudant_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cfenv": "^1.1.0",
+    "cloudant": "^1.10.0-NOTICE",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
